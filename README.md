@@ -31,9 +31,9 @@ This bot logs the room activity in the console.
 
 ```js
 var Bot    = require('ttapi');
-var AUTH   = 'auth+live+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-var USERID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
-var ROOMID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
+var AUTH   = 'auth+live+2cdbb9bd018b4d3af371b29471ce903b9413083a';
+var USERID = '4fc90519eb35c1533d000006';
+var ROOMID = '4e3c380114169c4fda19da3b';
 
 var bot = new Bot(AUTH, USERID);
 
