@@ -1,8 +1,8 @@
 from ttapi import Bot
 
-AUTH   = 'auth+live+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-USERID = 'xxxxxxxxxxxxxxxxxxxxxxxx'
-ROOMID = 'xxxxxxxxxxxxxxxxxxxxxxxx'
+AUTH   = 'auth+live+2cdbb9bd018b4d3af371b29471ce903b9413083a'
+USERID = '4fc90519eb35c1533d000006'
+ROOMID = '4e3c380114169c4fda19da3b'
 bot = Bot(AUTH, USERID, ROOMID)
 
 theUsersList = { }
